@@ -19,3 +19,23 @@
 ### Program 9 - Program based on Constructors
 
 ### Program 10 - Program based on this keyword
+
+### Program 11a - Program to find area of rectangle
+
+### Program 11b - Program based on some opertaors and expressions
+
+### Program 11c - Program of digit extraction
+
+### Program 12a - Program of larger in 2 number
+
+### Program 12b - Program to find even-odd
+
+### Program 12c - Program to find biggest in 3 number
+
+### Program 13a - Program to find sum of digits
+
+### Program 14 - Program to print Fibonacci Series
+
+### Program 15 - Program to check Armstrong Number
+
+### Program 16a - Program to implement Single Inheritance
