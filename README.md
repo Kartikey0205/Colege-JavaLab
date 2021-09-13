@@ -51,3 +51,9 @@
 ### Program p019SuperDefaultToParameter - Program using super keyword at constructor level (Default at base to parameteric derived)
 
 ### Program p020SuperParameterToDefault - Program using super keyword at constructor level (Parameter at base to default derived)
+
+### Program p021arrayBigger - Program to find maximum and minimum value of array.
+
+### Program p022studentNumber - To write a java program to display total marks of 5 students using student class. Given the following attributes: Regno(int), Name(string), Marks in subjects(Integer Array), Total (int).
+
+### Program p023rectangle - To write a program in java with a class Rectangle with the data fields width, length, area and colour. The length, width and area are of double type and colour is of string type.The methods are get_length(), get_width(), get_colour() and find_area(). Create two objects of Rectangle and compare their area and colour. If the area and colour both are the same for the objects then display “Matching Rectangles”, otherwise display “Non-matching Rectangle”.
